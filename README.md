@@ -2,7 +2,7 @@
 * Motif finding
 * Sequence patterns
   For example, we want to use a better to describe the following patterns in the figure. 
- ![sampleA_fore_back][A.back.fore.png]
+ ![][A.back.fore.png]
 
 
 
