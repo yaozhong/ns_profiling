@@ -1,2 +1,5 @@
-# ns_profiling
-modeling nucleotide sequencing
+## Problem
+* Motif finding
+* Sequence patterns
+
+ 
