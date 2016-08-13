@@ -26,8 +26,10 @@ We could observed from this graph, the higher order k-mer model find more differ
 As we may know the different for the first 10 postions should not that big!!
 So higher order models has the risk of overfitting!
 
-<p> testing the block </p>
-<pre><code> 
-#include <stido.c>
-</code>
-</pre>
+**important** 
+* markdown
+  *mark1
+  *mark2
+
+
+
