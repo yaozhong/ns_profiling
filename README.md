@@ -21,3 +21,6 @@ sequence (trained) and (?test)
 
 ** KL divergence of differet Kmer model for the postions **
 ![KL divergences](https://github.com/yaozhong/ns_profiling/blob/master/kmer_model_KL.png)
+We could observed from this graph, the higher order k-mer model find more different for the difference of the seqeunce.
+As we may know the different for the first 10 postions should not that big!!
+So higher order models has the risk of overfitting!
