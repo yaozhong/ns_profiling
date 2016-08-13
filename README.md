@@ -26,10 +26,11 @@ We could observed from this graph, the higher order k-mer model find more differ
 As we may know the different for the first 10 postions should not that big!!
 So higher order models has the risk of overfitting!
 
-**important** 
-* markdown
-  * mark1
-  * mark2
+
+### working list
+- [x] basic analysis of kmer based Markov models
+- [] high efficent sampling of RNA reads
+
 
 
 
