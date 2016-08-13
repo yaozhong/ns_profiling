@@ -1,4 +1,4 @@
-## Problem
+## Problem ##
 * Motif finding
 * Sequence patterns
   For example, we want to use a better to describe the following patterns in the figure. 
@@ -13,10 +13,10 @@ that each element of the matrix is k-mer frequence list for the k and postion.
 We investigated the foreground and background model profiling a random selected foreground/background
 sequence (trained) and (?test)
 
-** A foreground sequence **
+### A foreground sequence
 ![foreseq_foreModel_backModel](https://github.com/yaozhong/ns_profiling/blob/master/foreseq_foreModel_backModel.png)
 
-** A background sequence **
+### A background sequence 
 ![backseq_foreModel_backModel](https://github.com/yaozhong/ns_profiling/blob/master/backseq_foreModel_backModel.png)
 
 ** KL divergence of differet Kmer model for the postions **
