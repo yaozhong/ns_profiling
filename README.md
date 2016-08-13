@@ -28,8 +28,8 @@ So higher order models has the risk of overfitting!
 
 
 ### working list
-- [x] basic analysis of kmer based Markov models
-- [] high efficent sampling of RNA reads
+-[x] basic analysis of kmer based Markov models
+-[] high efficent sampling of RNA reads
 
 
 
