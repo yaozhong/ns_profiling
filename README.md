@@ -25,3 +25,9 @@ sequence (trained) and (?test)
 We could observed from this graph, the higher order k-mer model find more different for the difference of the seqeunce.
 As we may know the different for the first 10 postions should not that big!!
 So higher order models has the risk of overfitting!
+
+<p> testing the block </p>
+<pre><code> 
+#include <stido.c>
+</code>
+</pre>
