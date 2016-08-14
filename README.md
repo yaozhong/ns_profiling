@@ -34,9 +34,9 @@ So higher order models has the risk of overfitting!
 
 
  table name 1 | table 2
- ------------------------
+ --------|----------------
  val 1  | val2 
- ------------
+ ------|------
 
 
 
